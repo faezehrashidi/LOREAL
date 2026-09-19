@@ -1,0 +1,36 @@
+/* start revitalift */
+.revitalift {
+  width: 100%;
+  height: fit-content;
+  margin: 65px auto;
+}
+.revitalift .liftpro {
+  width: 100%;
+  height: fit-content;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+.revitalift .image img {
+  width: 100%;
+  height: 692px;
+}
+.revitalift .liftpro h2 {
+  width: 75%;
+  font-size: 20px;
+  font-weight: 700;
+}
+.revitalift .liftpro p {
+  width: 75%;
+  font-size: 14px;
+}
+.revitalift .liftpro a {
+  padding: 15px 60px;
+  text-decoration: none;
+  font-size: 10px;
+  background-color: #000;
+  color: #fff;
+}
+/* end revitalift */

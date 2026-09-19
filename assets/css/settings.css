@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+  font-family: bold, book, medium;
+}
+@font-face {
+  font-family: bold;
+  src: url(../fonts/CamptonW05-Bold.2c00dd13.woff2);
+}
+@font-face {
+  font-family: book;
+  src: url(../fonts/CamptonW05-Book.139dfbd8.woff2);
+}
+@font-face {
+  font-family: medium;
+  src: url(../fonts/CamptonW05-Medium.272e795e.woff2);
+}

@@ -1,0 +1,213 @@
+/* start footer desktop */
+footer.tablet-mobile {
+  display: none;
+}
+footer.desktop {
+  width: 100%;
+  background-image: url(https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/shared/baseline/defaults/footer-images/footer_desktop_dark.jpg?cx=0&cy=0&cw=2880&ch=1190&hash=68F0ED1468BBC1F6D1B8B77B53C255ED);
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+}
+footer.desktop .head-text {
+  width: 100%;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+}
+footer.desktop .head-text h2 {
+  font-size: 56px;
+  color: white;
+}
+footer.desktop .head-text img {
+  width: 165px;
+  height: 50px;
+}
+footer.desktop .links {
+  width: 100%;
+  padding: 50px;
+  display: flex;
+  flex-flow: row;
+  justify-content: start;
+  align-items: start;
+}
+footer.desktop .links .more {
+  width: 100%;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: start;
+  gap: 12px;
+}
+footer.desktop .links .more h3 {
+  font-size: 14px;
+  color: white;
+}
+footer.desktop .links .more a {
+  font-size: 12px;
+  color: white;
+  line-height: 18px;
+  text-decoration: none;
+}
+footer.desktop .links .beauty {
+  width: 100%;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: start;
+  gap: 12px;
+}
+footer.desktop .links .beauty h3 {
+  font-size: 14px;
+  color: white;
+}
+footer.desktop .links .beauty a {
+  font-size: 12px;
+  color: white;
+  line-height: 18px;
+  text-decoration: none;
+}
+footer.desktop .links .service {
+  width: 100%;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: start;
+  gap: 12px;
+}
+footer.desktop .links .service h3 {
+  font-size: 14px;
+  color: white;
+}
+footer.desktop .links .service a {
+  font-size: 12px;
+  color: white;
+  line-height: 18px;
+  text-decoration: none;
+}
+footer.desktop .links .miss {
+  width: 100%;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: start;
+  gap: 12px;
+}
+footer.desktop .links .miss h4 {
+  font-size: 14px;
+  color: white;
+}
+footer.desktop .links .miss span {
+  width: 70%;
+  font-size: 12px;
+  color: white;
+  font-weight: lighter;
+}
+footer.desktop .links .miss input {
+  padding: 16px;
+  background-color: transparent;
+  font-size: 12px;
+}
+footer.desktop .links .miss p {
+  width: 70%;
+  font-size: 10px;
+  color: white;
+}
+footer.desktop .links .miss p a {
+  width: 60%;
+  font-size: 10px;
+  color: white;
+}
+footer.desktop .links .miss a.join {
+  padding: 8px 80px;
+  background-color: #fff;
+  color: #000;
+  text-decoration: none;
+  font-size: 10px;
+}
+footer.desktop .body {
+  width: 100%;
+  padding: 100px;
+  display: flex;
+  flex-flow: row;
+  justify-content: space-between;
+  align-items: center;
+}
+footer.desktop .body .left {
+  display: flex;
+  flex-flow: row;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+}
+footer.desktop .body .right {
+  width: 28%;
+  height: 40px;
+  padding: 12px;
+  background-color: #000;
+  border-radius: 12px;
+  display: flex;
+  flex-flow: row;
+  justify-content: space-between;
+  align-items: center;
+}
+footer.desktop .body .right span {
+  font-size: 10px;
+  color: white;
+}
+footer.desktop .end {
+  width: 100%;
+  padding: 50px 0;
+  background-color: #000;
+}
+footer.desktop .end .first {
+  padding: 18px;
+  display: flex;
+  flex-flow: row;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+}
+footer.desktop .end .first a {
+  font-size: 11px;
+  color: white;
+  text-decoration: none;
+}
+footer.desktop .end .middle {
+  width: 100%;
+  padding: 60px 0;
+  display: flex;
+  flex-flow: row;
+  justify-content: center;
+  align-items: center;
+}
+footer.desktop .end .middle p {
+  font-size: 16px;
+  color: #fff;
+}
+footer.desktop .end .middle p a {
+  font-size: 16px;
+  color: #f2cd95;
+}
+footer.desktop .end .last {
+  width: 100%;
+  padding: 0px 120px;
+  display: flex;
+  flex-flow: row;
+  justify-content: start;
+  align-items: center;
+}
+footer.desktop .end .last a {
+  font-size: 16px;
+  color: #f2cd95;
+}
+footer.desktop .end .lastimg {
+  width: 30px;
+  height: 15px;
+}
+/* end footer desktop */

@@ -1,0 +1,130 @@
+footer.tablet-mobile {
+  width: 100%;
+  padding: 30px;
+  background-image: url(https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/shared/baseline/defaults/footer-images/footer_mobile_dark.png?cx=0&cy=0&cw=188&ch=282&hash=844C3F30CD13C09A495E1606B575D25F);
+  background-size: cover;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+}
+footer.tablet-mobile .head {
+  width: 80%;
+  padding: 25px 0px;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+footer.tablet-mobile .head h2 {
+  font-size: 48px;
+  color: white;
+  text-align: center;
+}
+footer.tablet-mobile .head img {
+  width: 150px;
+}
+footer.tablet-mobile .body {
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: start;
+}
+footer.tablet-mobile .body h3 {
+  font-size: 12px;
+  color: white;
+}
+footer.tablet-mobile .body p {
+  font-size: 12px;
+  color: white;
+}
+footer.tablet-mobile .body .logo {
+  width: 100%;
+  padding: 25px 0;
+  display: flex;
+  flex-flow: row;
+  justify-content: start;
+  align-items: center;
+  gap: 15px;
+}
+footer.tablet-mobile .body .links {
+  width: 100%;
+}
+footer.tablet-mobile .body .links .up {
+  width: 100%;
+  padding: 25px 0;
+  display: flex;
+  flex-flow: row;
+  justify-content: space-between;
+  align-items: center;
+}
+footer.tablet-mobile .body .links .up span {
+  font-size: 10px;
+  color: #fff;
+}
+footer.tablet-mobile .body .links .down {
+  width: 100%;
+  padding: 25px 0;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: start;
+  gap: 15px;
+}
+footer.tablet-mobile .body .links .down a {
+  text-decoration: none;
+  font-size: 10px;
+  color: #fff;
+}
+footer.tablet-mobile .body .end {
+  width: 100%;
+}
+footer.tablet-mobile .body .end .top {
+  width: 100%;
+  display: flex;
+  flex-flow: row;
+  justify-content: space-between;
+  align-items: center;
+}
+footer.tablet-mobile .body .end .top span {
+  font-size: 12px;
+  color: white;
+}
+footer.tablet-mobile .body .end .top p {
+  font-size: 12px;
+  color: white;
+}
+footer.tablet-mobile .body .end .bottom {
+  width: 100%;
+  padding: 20px 0px;
+}
+footer.tablet-mobile .body .end .bottom p {
+  font-size: 16px;
+  font-weight: lighter;
+  color: white;
+}
+footer.tablet-mobile .body .end .bottom p a {
+  font-size: 16px;
+  font-weight: lighter;
+  color: #f2cd95;
+}
+footer.tablet-mobile .body .end .text {
+  width: 100%;
+  padding: 60px 0;
+  display: flex;
+  flex-flow: row;
+  justify-content: center;
+  align-items: center;
+}
+footer.tablet-mobile .body .end .text a {
+  font-size: 16px;
+  color: #f2cd95;
+}
+footer.tablet-mobile .body .end .text img {
+  width: 30px;
+  height: 15px;
+}
+footer.desktop {
+  display: none;
+}

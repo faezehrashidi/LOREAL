@@ -1,0 +1,44 @@
+/* start commitments */
+.commitments {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 12px;
+  padding: 10px;
+}
+
+.commitments h2 {
+  grid-column: span 2;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.commitments .compro {
+  position: relative;
+  width: 100%;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.commitments .compro img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+  display: block;
+}
+
+.commitments .compro h3 {
+  position: absolute;
+  bottom: 10px;
+  left: 0;
+  right: 0;
+  text-align: center;
+  color: #fff;
+  font-size: 12px;
+  background-color: #000;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.7);
+  padding: 15px 20px;
+}
+/* end commitments */

@@ -1,0 +1,500 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "src": "https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/products/makeup/face/foundation-makeup/infallible-cushion-foundation/071249710340_t1-v1.png?w=136&hash=EB2CFD0C40CD2AE3699A61FE4E311F3B",
+      "alt": "product1",
+      "title": "Cushion Foundation for Soft Matte Buildable Coverage",
+      "price": "$19.99",
+      "rating": "4.7/5",
+      "reviewCount": "(196)",
+      "button": "Buy Product"
+    },
+    {
+      "id": 2,
+      "src": "https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/products/makeup/face/blush/true-match-hyaluron-tinted-balm-embellisher/3600524254179/3600524254179-t1.png?w=136&hash=C764BE331949EB75BBB8CFEAAA84FB1C",
+      "alt": "product2",
+      "title": "Hyaluron Tinted Balm Embellisher, Blush & Highlighter Hybrid for Mature Skin",
+      "price": "$17.99",
+      "rating": "4.3/5",
+      "reviewCount": " (147)",
+      "button": "Buy Product"
+    },
+    {
+      "id": 3,
+      "src": "https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/products/makeup/face/foundation-makeup/true-match-hyaluron-tinted-balm-foundation/3600524254056/3600524254056-t1-v2.png?w=136&hash=3BA65F211DAE69374D3B119DA082FDA0",
+      "alt": "product3",
+      "title": "Hyaluron Tinted Balm Foundation for Mature Skin with Buildable Light to Medium Coverage",
+      "price": "$17.99",
+      "rating": "4.3/5",
+      "reviewCount": "(178)",
+      "button": "Buy Product"
+    },
+    {
+      "id": 4,
+      "src": "https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/products/makeup/lip-color/lip-gloss/plump-ambition-infinite-lights-hyaluron-lip-oil/071249710203/071249710203_t1.png?w=136&hash=F188181D1D3737C7F3FD891F3C4924F7",
+      "alt": "product4",
+      "title": "Hyaluron Lip Oil Shimmer Infinite Lights for Plump, Shimmery Lips",
+      "price": "$13.99",
+      "rating": "4.5/5",
+      "reviewCount": "(124)",
+      "button": "Buy Product"
+    },
+    {
+      "id": 5,
+      "src": "https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/products/hair-care/shampoo/elvive-collagen-peptide-lifter-shampoo/071249706848-t1.png?w=136&hash=B0DB9585F62D5EB1B9EFCA34C016A0E8",
+      "alt": "product5",
+      "title": "Collagen Peptide + Lifter Volumizing Shampoo for Thin, Flat Hair",
+      "price": "$6.99",
+      "rating": "4.5/5",
+      "reviewCount": "(173)",
+      "button": "Buy Product"
+    },
+    {
+      "id": 6,
+      "src": "https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/products/hair-care/conditioner/elvive-collagen-peptide-lifter-conditioner/atf/071249707371-t1.png?w=136&hash=EF821A6707C98871BB195F4C151660D9",
+      "alt": "product6",
+      "title": "Collagen Peptide + Lifter Volumizing Conditioner for Thin, Flat Hair",
+      "price": "$6.99",
+      "rating": "4.5/5",
+      "reviewCount": "(171)",
+      "button": "Buy Product"
+    },
+    {
+      "id": 7,
+      "src": "https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/products/hair-style/hair-mousse/elvive-collagen-peptide-lifter-mousse/atf/071249710647-t1.png?w=136&hash=B3EAD68810834732AADEFD649310EA6F",
+      "alt": "product7",
+      "title": "Collagen Peptide + Lifter Big Lift Volumizing Mousse for Thin, Flat Hair",
+      "price": "$8.99",
+      "rating": "4.5/5",
+      "reviewCount": " (173)",
+      "button": "Buy Product"
+    },
+    {
+      "id": 8,
+      "src": "https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/products/hair-care/shampoo/elvive-collagen-peptide-lifter-dry-shampoo/3600524253035-t1.png?w=136&hash=F0C588FC726FBD0BC6FC93F8350115CC",
+      "alt": "product8",
+      "title": "Collagen Peptide + Lifter Big Fresh Volumizing Dry Shampoo for Oily, Flat Hair",
+      "price": "$8.99",
+      "rating": "4.4/5",
+      "reviewCount": " (172)",
+      "button": "Buy Product"
+    },
+    {
+      "id": 9,
+      "src": "https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/products/skin-care/face-serums/revitalift-triple-power-age-defying-serum/071249703212-t1.png?w=136&hash=66B4910D9C1768D517913233BBDB9F59",
+      "alt": "product9",
+      "title": "Triple Power Tri-Peptides Age-Defying Serum for Wrinkles, Firmness & Radiance",
+      "price": "$24.99",
+      "rating": "4.6/5",
+      "reviewCount": " (1471)",
+      "button": "Buy Product"
+    },
+    {
+      "id": 10,
+      "src": "https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/products/hair-care/hair-treatments/everpure-hair-fragrance/071249710920-t1-v2.png?w=136&hash=9BAE6C1DA9B5C9E4E0393960809BDAB9",
+      "alt": "product10",
+      "title": "Hair Fragrance Spray for Delicately Scented Hair, Glazed Honey",
+      "price": "$17.99",
+      "rating": "4.7/5",
+      "reviewCount": "(180)",
+      "button": "Buy Product"
+    },
+    {
+      "id": 11,
+      "src": "https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/products/skin-care/face-serums/revitalift-triple-power-melasyl-dark-spot-creamy-serum/3600524261368-t1-(1).png?w=136&hash=A8EDFC6A7C625EFC83F5407F744895BD",
+      "alt": "product11",
+      "title": "Triple Power Melasyl Dark Spot Creamy Serum for Darks Spots and Wrinkles",
+      "price": "$29.99",
+      "rating": "4.2/5",
+      "reviewCount": " (261)",
+      "button": "Buy Product"
+    },
+    {
+      "id": 12,
+      "src": "https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/products/skin-care/facial-moisturizers/revitalift-triple-power-rich-night-moisturizer/071249706855-t3-new-(1).png?w=136&hash=2C8F1C44CFFDD234A6CC1CFAAB4EFFCF",
+      "alt": "product12",
+      "title": "Triple Power Rich Night Moisturizer for Firming, Smoothing & Brightness",
+      "price": "$29.99",
+      "rating": "4.6/5",
+      "reviewCount": "(275)",
+      "button": "Buy Product"
+    },
+    {
+      "id": 13,
+      "src": "https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/products/makeup/face/bronzer/lumi-bronze-le-stick-soleil/071249705674_t1-min.png?w=136&hash=C02F1C08807DD3513FDC58248B7381E9",
+      "alt": "product13",
+      "title": "Lumi Bronze Le Stick Soleil Face Bronzing Stick",
+      "price": "$12.99",
+      "rating": "4.6/5",
+      "reviewCount": "(308)",
+      "button": "Buy Product"
+    },
+    {
+      "id": 14,
+      "src": "https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/products/hair-care/hair-treatments/ever-pure-sulfate-free-iron-sleek-coat/071249707937-v3.png?w=136&hash=33D01A6BA8F1D4B48DE3D2B000B4E8F5",
+      "alt": "product14",
+      "title": "Sulfate Free Iron Sleek Coat Smoothing Treatment for Frizzy Hair",
+      "price": "$12.99",
+      "rating": "4.5/5",
+      "reviewCount": " (79)",
+      "button": "Buy Product"
+    },
+    {
+      "id": 15,
+      "src": "https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/products/hair-care/shampoo/everpure-sulfate-free-iron-sleek-smoothing-shampoo/071249707944-t1.png?w=136&hash=FEE3EF6E38688B42ACA63B7F26CA214A",
+      "alt": "product15",
+      "title": "Sulfate Free Iron Sleek Smoothing Shampoo for Frizzy Hair",
+      "price": "$10.99",
+      "rating": "4.6/5",
+      "reviewCount": " (94)",
+      "button": "Buy Product"
+    },
+    {
+      "id": 16,
+      "src": "https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/products/hair-care/conditioner/ever-pure-sulfate-free-iron-sleek-smoothing-conditioner/071249708026-t1.png?w=136&hash=3ED089DD4439AB5976DC7D0866303050",
+      "alt": "product16",
+      "title": "Sulfate Free Iron Sleek Smoothing Conditioner for Frizzy Hair",
+      "price": "$10.99",
+      "rating": "4.6/5",
+      "reviewCount": " (91)",
+      "button": "Buy Product"
+    },
+    {
+      "id": 17,
+      "src": "https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/products/makeup/lip-color/lipstick/colour-riche-blurred-matte-lipstick/071249704455/071249704455-t1.png?w=136&hash=7DAD3F2C0F62C5121E86FB63DD563E15",
+      "alt": "product17",
+      "title": "Colour Riche Blurred Matte Lipstick for Hydration and Minimized Lip Lines",
+      "price": "$10.99",
+      "rating": "4.6/5",
+      "reviewCount": " (178)",
+      "button": "Buy Product"
+    },
+    {
+      "id": 18,
+      "src": "https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/products/makeup/lip-color/lip-liner/paradise-blurfiller-blurring-lip-contour/071249708682/071249708682-t1.png?w=136&hash=176303302324466C3470BC03FE208629",
+      "alt": "product18",
+      "title": "Blurfiller Blurring Lip Contour for Fuller-Looking Lips",
+      "price": "$12.99",
+      "rating": "4.6/5",
+      "reviewCount": " (309)",
+      "button": "Buy Product"
+    },
+    {
+      "id": 19,
+      "src": "https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/products/makeup/lip-color/lip-gloss/paradise-hyaluron-tint-lip-stain-serum/071249704370_t1.png?w=136&hash=7A7D7216C266B3EB28BB515C2875EE9F",
+      "alt": "product19",
+      "title": "Hyaluron Tint Hydrating Lip Stain Serum",
+      "price": "$13.99",
+      "rating": "4.2/5",
+      "reviewCount": " (295)",
+      "button": "Buy Product"
+    },
+    {
+      "id": 20,
+      "src": "https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/products/makeup/eye/mascara/telescopic-extensionist-mascara/071249702819/071249702819-t1.png?w=136&hash=4A96FACF8DA40B2CE9BC29B70781AE40",
+      "alt": "product20",
+      "title": "Extensionist Mascara for Extension-like Length & Curl",
+      "price": "$15.99",
+      "rating": "4.4/5",
+      "reviewCount": " (384)",
+      "button": "Buy Product"
+    },
+    {
+      "id": 21,
+      "src": "https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/products/makeup/eye/eyeliner/haute-couleur-kohl-pencil-eyeliner/071249703601/071249703601-t1.png?w=136&hash=77AA191B8516E7E1AFD79390173D45A0",
+      "alt": "product21",
+      "title": "Haute Couleur Kohl Pencil Eyeliner for Smooth and Buidlable Application",
+      "price": "$7.99",
+      "rating": "4.5/5",
+      "reviewCount": " (140)",
+      "button": "Buy Product"
+    },
+    {
+      "id": 22,
+      "src": "https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/products/makeup/eye/eyeliner/haute-precision-liquid-eyeliner/071249705551-t1.png?w=136&hash=FFF26943DAA70EECED309FA4D332C8B4",
+      "alt": "product22",
+      "title": "Haute Precision Waterproof Liquid Eyeliner for Ultra-Precise Application",
+      "price": "$13.99",
+      "rating": "4.6/5",
+      "reviewCount": " (133)",
+      "button": "Buy Product"
+    },
+    {
+      "id": 23,
+      "src": "https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/products/skin-care/eye-creams/revitalift-triple-power-eye-bag-instant-eraser/atf/071249710784-t1.png?w=136&hash=26248105EDADF0BD05A5904D3DC65C05",
+      "alt": "product23",
+      "title": "Triple Power Eye Bag Instant Eraser for Under-Eye Bags, Wrinkles & Puffiness",
+      "price": "$24.99",
+      "rating": "4/5",
+      "reviewCount": " (1282)",
+      "button": "Buy Product"
+    },
+    {
+      "id": 24,
+      "src": "https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/products/skin-care/self-tanning/sublime-bronze-hydrating-self-tanning-serum-in-lotion/071249691366_t1.png?w=136&hash=FA179BA961EF8F2214591C1DCBB2327E",
+      "alt": "product24",
+      "title": "Hydrating Self-Tanning Serum-In-Lotion",
+      "price": "$16.99",
+      "rating": "4.1/5",
+      "reviewCount": " (46)",
+      "button": "Buy Product"
+    },
+    {
+      "id": 25,
+      "src": "https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/products/skin-care/night-creams/age-perfect-midnight-cream/071249668108_t1-v2.png?w=136&hash=33C00474F8710F56B5D06B594A2A393C",
+      "alt": "product25",
+      "title": "Cell Renewal Midnight Cream Anti-Aging Night Moisturizer with Antioxidants, Fragrance Free",
+      "price": "$36.99",
+      "rating": "4.6/5",
+      "reviewCount": " (480)",
+      "button": "Buy Product"
+    }
+  ],
+  "virtualbeauty": [
+    {
+      "id": 1,
+      "images": [
+        {
+          "src": "https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/articles/tools-and-consultations/tools-and-consultations---service-hub-page/bg-services-module-icon-new.jpg?w=154&hash=622EF84D2FCC1B6D0232C31B3D0C6A9B",
+          "alt": "virtualbeauty1"
+        },
+        {
+          "src": "https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/master/dmi/bg-logos/monogram-gold.svg",
+          "alt": "logo1"
+        }
+      ],
+      "text": "Beauty Genius",
+      "title": "Get personalized beauty advice and product recommendations",
+      "detail": "TRY THIS SERVICE"
+    },
+    {
+      "id": 2,
+      "images": [
+        {
+          "src": "https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/homepage/hp-services-related-component/skin-genius-service-img-v2-min.png?w=154&hash=D549A85538977A58CC8101F03C705EF4",
+          "alt": "virtualbeauty2"
+        },
+        {
+          "src": "https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/homepage/hp-services-related-component/logo-skingenius.png",
+          "alt": "logo2"
+        }
+      ],
+      "text": "Skin Genius",
+      "title": "Analyze your skin for a custom skincare routine",
+      "detail": "TRY THIS SERVICE"
+    },
+    {
+      "id": 3,
+      "images": [
+        {
+          "src": "https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/master/dmi/services-hub/push-img-make-up-tryon.png?w=154&hash=9DEDF182A786D14B1AB5196FBB5A5719",
+          "alt": "virtualbeauty3"
+        },
+        {
+          "src": "https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/homepage/hp-services-related-component/logo-makeuptryon.png",
+          "alt": "logo3"
+        }
+      ],
+      "text": "MakeUp Try on",
+      "title": "Live try on your favorite make up products",
+      "detail": "TRY THIS SERVICE"
+    },
+    {
+      "id": 4,
+      "images": [
+        {
+          "src": "https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/master/dmi/services-hub/push-img-hair-color-tryon.png?w=154&hash=1716D1BD6BA2FB0366F8E979E4727BDE",
+          "alt": "virtualbeauty4"
+        },
+        {
+          "src": "https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/homepage/hp-services-related-component/logo-haircolortryon.png",
+          "alt": "logo4"
+        }
+      ],
+      "text": "HairColor TryOn",
+      "title": "Live try on your favorite hair color products",
+      "detail": "TRY THIS SERVICE"
+    },
+    {
+      "id": 5,
+      "images": [
+        {
+          "src": "https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/homepage/hp-services-related-component/men-expert-service-card-img-min.png?w=154&hash=342894EEB2B790561F5F48E120258B0F",
+          "alt": "virtualbeauty5"
+        },
+        {
+          "src": "https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/homepage/hp-services-related-component/logo-menshadematcher.png",
+          "alt": "logo1"
+        }
+      ],
+      "text": "Men Shade Matcher",
+      "title": "Find the shade that will best match your natural haircolor for grey coverage",
+      "detail": "TRY THIS SERVICE"
+    },
+    {
+      "id": 6,
+      "images": [
+        {
+          "src": "https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/homepage/hp-services-related-component/concierge-service-img-min.png?w=154&hash=FE6AD84049645C2346887C3B63315771",
+          "alt": "virtualbeauty6"
+        },
+        {
+          "src": "https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/homepage/hp-services-related-component/logo-haircolor-concierge-(1).png",
+          "alt": "logo6"
+        }
+      ],
+      "text": "Hair Color Concierge",
+      "title": "Introducing Haircolor Concierge from the #1 at-home hair color brand.",
+      "detail": "TRY THIS SERVICE"
+    },
+    {
+      "id": 7,
+      "images": [
+        {
+          "src": "https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/homepage/hp-services-related-component/ingredientlib_logo512_02.png?w=154&hash=E794D20E6408A6A59536A75CCDF9C87A",
+          "alt": "virtualbeauty7"
+        },
+        {
+          "src": "https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/homepage/hp-services-related-component/ingredientlib_logo512.jpg",
+          "alt": "logo1"
+        }
+      ],
+      "text": "Ingredient Library",
+      "title": "We are committed to providing you information about our ingredients",
+      "detail": "LEARN MORE "
+    }
+  ],
+  "magazine": [
+    {
+      "id": 1,
+      "src": "https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/beauty-magazine/2026/jul/header-how-to-do-glass-skin-trend-mobile.jpg?cx=0&cy=0&cw=80&ch=86&hash=973F0CCCCA1F08CDB796D2B5B2B867B7",
+      "alt": "magazine1",
+      "title": "How To Get Glass Skin: Tips and Tricks You Need To Try",
+      "detail": "BY FERNANDA FARJEAT",
+      "date": "JULY 02, 2026"
+    },
+    {
+      "id": 2,
+      "src": "https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/beauty-magazine/2026/jul/header-collagen-for-hair-mobile.jpg?cx=0&cy=0&cw=80&ch=86&hash=23437937BA67C1B74B6BDCFC2D4AFD1F",
+      "alt": "magazine2",
+      "title": " Collagen Peptides For Hair: What It Does and How To Add It To Your Routine",
+      "detail": "BY GILLIAN FULLER",
+      "date": "JULY 02, 2026"
+    },
+    {
+      "id": 3,
+      "src": "https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/beauty-magazine/2026/aug/header-hacks-to-hide-gray-hair-mobile.jpg?cx=0&cy=0&cw=80&ch=86&hash=CBD5F8F98F4AEB9192DCA7EDDFC4AE2E",
+      "alt": "magazine3",
+      "title": " 8 Ways To Conceal and Hide Gray Roots Fast",
+      "detail": "BY GILLIAN FULLER",
+      "date": "AUGUST 17, 2026"
+    },
+    {
+      "id": 4,
+      "src": "https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/beauty-magazine/2026/jul/header-best-waterproof-mascaras-mobile.jpg?cx=0&cy=0&cw=80&ch=86&hash=A67A4AA9D7533AD81E0DD2C365BF02FC",
+      "alt": "magazine4",
+      "title": " Our 7 Best Waterproof Mascaras That Don’t Smudge or Budge ",
+      "detail": "BY FERNANDA FARJEAT",
+      "date": "JULY 02, 2026"
+    }
+  ],
+  "commitments": [
+    {
+      "id": 1,
+      "src": "https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/homepage/content-push/hero-article-2-3-v2.jpg?cx=0.49&cy=0.56&cw=590&ch=590&hash=682ED6FF3596CD46C533E1B17575601C",
+      "alt": "commitments1",
+      "title": " Lessons of Worth "
+    },
+    {
+      "id": 2,
+      "src": "https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/homepage/content-push/digital-thecause-banner-header-elongoria_dmi_2000x900-4.jpg?cx=0.49&cy=0.36&cw=590&ch=590&hash=DF7B87F76611D3D2B8297756EC6BD8FC",
+      "alt": "commitments2",
+      "title": "Stand Up"
+    },
+    {
+      "id": 3,
+      "src": "https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/homepage/content-push/image-2023-02-10-10-40-35-707.png?cx=0.49&cy=0.47&cw=590&ch=590&hash=E60A1C72BE201DF025FB5D055087C260",
+      "alt": "commitments3",
+      "title": "The Other Side"
+    },
+    {
+      "id": 4,
+      "src": "https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/homepage/content-push/loreal-paris-sustainability-kv-2000x900.jpg?cx=0.51&cy=0.43&cw=590&ch=590&hash=A4E08C475B7E7BB794945495DB414084",
+      "alt": "commitments4",
+      "title": "Sustainable Growth"
+    }
+  ],
+  "similaritem": [
+    {
+      "id": 1,
+      "src": "https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/products/makeup/face/foundation-makeup/infaillible-up-to-24h-fresh-wear-in-a-powder-matte-finish/sienna/071249627860_t1.png?w=136&hash=ECE79A0815FA8D3AE9FCA3CF1B195097",
+      "alt": "similaritem1",
+      "title": "Up to 24H Fresh Wear Foundation-in-a-Powder for Full Matte Coverage",
+      "price": "$18.99",
+      "rating": "4.1/5",
+      "reviewCount": "(468)",
+      "button": "Buy Product"
+    },
+    {
+      "id": 2,
+      "src": "https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/products/makeup/face/foundation-makeup/infallible-24-hour-fresh-wear-foundation-lightweight/435-rose-vanilla/22-05-24/071249382189-t1.png?w=136&hash=994181BF142B95B8B238F042F93E07A9",
+      "alt": "similaritem2",
+      "title": "Infallible 32 Hour Fresh Wear Foundation",
+      "price": "$18.99",
+      "rating": "4.4/5",
+      "reviewCount": " (1580)",
+      "button": "Buy Product"
+    },
+    {
+      "id": 3,
+      "src": "https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/products/skin-care/facial-moisturizers/revitalift-derm-intensives-pure-hyaluronic-acid-serum/071249377512_t1.png?w=136&hash=C06BC143351183557DAF78D65E52EA7B",
+      "alt": "similaritem3",
+      "title": "RevitaLift 1.5% Pure Hyaluronic Acid Serum",
+      "price": "$32.99",
+      "rating": "4.6/5",
+      "reviewCount": " (10K+)",
+      "button": "Buy Product"
+    },
+    {
+      "id": 4,
+      "src": "https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/products/hair-color/permanent/superior-preference-fade-defying-shine-permanent-hair-color/2024-atf/071249253236/new-2025/071249253236-t1.png?w=136&hash=9B80C943A72FD0ABD8761027D3A2EED7",
+      "alt": "similaritem4",
+      "title": "Fade-Defying Permanent Hair Color for Salon-Quality Luminous Hair",
+      "price": "$13.99",
+      "rating": "4.1/5",
+      "reviewCount": "(4907)",
+      "button": "Buy Product"
+    },
+    {
+      "id": 5,
+      "src": "https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/products/hair-color/semi-permanent/colorista-semi-permanent-hair-color/10-teal/26-10-2023/071249337776-t1.png?w=136&hash=F5A6C1D97E3FD879A873AED4E6EA441F",
+      "alt": "similaritem5",
+      "title": "Semi-Permanent Hair Color",
+      "price": "$12.99",
+      "rating": "2.7/5",
+      "reviewCount": " (1909)",
+      "button": "Buy Product"
+    },
+    {
+      "id": 6,
+      "src": "https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/products/hair-color/root-touch-up/magic-root-cover-up/image-12-09-2025/071249318560/071249318560-t1.png?w=136&hash=8667ED57E189725DE004853588F10204",
+      "alt": "similaritem6",
+      "title": "Temporary Root Cover Up Spray for Gray Root Coverage",
+      "price": "$12.99",
+      "rating": "4/5",
+      "reviewCount": "(4337)",
+      "button": "Buy Product"
+    },
+    {
+      "id": 7,
+      "src": "https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/products/hair-color/permanent/excellence-creme-permanent-triple-protection-hair-color/image-12-10-2025/atf/071249210529/new_-07-13-26/071249210529-t1.png?w=136&hash=F84A2A4343B5E689D69034C232EF5552",
+      "alt": "similaritem7",
+      "title": "Crème Triple Care Permanent Hair Color for 100% Gray Hair Coverage",
+      "price": "$12.99",
+      "rating": "3.8/5",
+      "reviewCount": "(1709)",
+      "button": "Buy Product"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+/* start header */
+header.desktop {
+  width: 100%;
+  height: 600px;
+  padding: 5px 30px;
+  display: flex;
+  flex-flow: column;
+  justify-content: start;
+  align-items: center;
+  gap: 30px;
+  background-image: url(https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/le-defile/20260818_oap_defile-kendall-homepage-hero-desktop_.jpg?cx=0.49&cy=0.4&cw=1920&ch=860&hash=45A802349E33844B54850AEF48A33996);
+  background-position: center;
+  background-size: cover;
+  position: relative;
+}
+header.desktop .headdes {
+  width: 100%;
+  padding: 5px 30px;
+  display: flex;
+  flex-flow: row-reverse;
+  justify-content: space-between;
+  align-items: center;
+}
+header.desktop .headdes .right {
+  display: flex;
+  flex-flow: row;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+}
+header.desktop .headdes .right span {
+  font-size: 12px;
+  color: white;
+}
+header.desktop .headdes .left {
+  font-size: 16px;
+  color: white;
+}
+header.desktop .list {
+  width: 100%;
+}
+header.desktop .list ul {
+  display: flex;
+  flex-flow: row;
+  justify-content: center;
+  align-items: center;
+}
+header.desktop .list ul li {
+  width: 10%;
+}
+header.desktop .list ul li a {
+  font-size: 10px;
+  font-weight: 400;
+  color: #fff;
+  text-decoration: none;
+}
+header.desktop a.dis {
+  position: absolute;
+  bottom: 50px;
+  padding: 10px 60px;
+  background-color: #000;
+  font-size: 10px;
+  text-decoration: none;
+  color: white;
+  cursor: pointer;
+}
+header.mobile-tablet {
+  display: none;
+}
+/* end header */

@@ -1,0 +1,36 @@
+/* start women */
+.women {
+  width: 100%;
+  height: fit-content;
+  margin: 65px auto;
+}
+.women .womenpro {
+  width: 100%;
+  height: fit-content;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+  gap: 18px;
+}
+.women .image img {
+  width: 100%;
+  height: 450px;
+}
+.women .womenpro h2 {
+  width: 85%;
+  font-size: 20px;
+  font-weight: 700;
+}
+.women .womenpro p {
+  width: 85%;
+  font-size: 14px;
+}
+.women .womenpro a {
+  padding: 10px 150px;
+  text-decoration: none;
+  font-size: 10px;
+  background-color: #000;
+  color: #fff;
+}
+/* end women */
