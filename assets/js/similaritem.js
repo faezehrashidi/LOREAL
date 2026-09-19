@@ -1,8 +1,8 @@
 const fetchsimilaritem = async () => {
   try {
-    let data = await fetch("https://github.com/faezehrashidi/db.json/similaritem");
+    let data = await fetch("https://faezehrashidi.github.io/LOREAL/db.json");
     let res = await data.json();
-    let similarItem = res.map((elem) => {
+    let similarItem = res.similaritem.map((elem) => {
       return `
           <div class="swiper-slide">
             <div class="similarcard">
@@ -41,8 +41,8 @@ const fetchsimilaritem = async () => {
         1120: { slidesPerView: 4.5 },
       },
     });
-  } catch (err) {
-    console.log(err.message);
+  } catch (error) {
+    console.log(error.message);
   }
 
 }

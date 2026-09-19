@@ -1,8 +1,8 @@
 const fetchproduct = async () => {
   try {
-    let data = await fetch("https://github.com/faezehrashidi/db.json/product");
+    let data = await fetch("https://faezehrashidi.github.io/LOREAL/db.json");
     let res = await data.json();
-    let productItem = res.map((elem) => {
+    let productItem = res.product.map((elem) => {
       return `
           <div class="swiper-slide">
             <div class="productcard">
@@ -41,8 +41,8 @@ const fetchproduct = async () => {
         1120: { slidesPerView: 4.5 },
       },
     });
-  } catch (err) {
-    console.log(err.message);
+  } catch (error) {
+    console.log(error.message);
   }
 
 }

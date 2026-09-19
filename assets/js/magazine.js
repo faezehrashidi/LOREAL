@@ -1,8 +1,8 @@
 const fetchmagazine = async () => {
   try {
-    let data = await fetch("https://github.com/faezehrashidi/db.json/magazine");
+    let data = await fetch("https://faezehrashidi.github.io/LOREAL/db.json");
     let res = await data.json();
-    let magazineItem = res.map((elem) => {
+    let magazineItem = res.magazine.map((elem) => {
       return `
         <div class="magazinecard">
          <div class="row">
@@ -24,7 +24,7 @@ const fetchmagazine = async () => {
       .querySelector(".magazine")
       .insertAdjacentHTML("beforeend", magazineItem.join(""));
   } catch (error) {
-    console.log(err.message);
+    console.log(error.message);
   }
 };
 

@@ -1,8 +1,8 @@
 const fetchvirtualbeauty = async () => {
     try {
-        let data = await fetch("https://github.com/faezehrashidi/db.json/virtualbeauty");
+        let data = await fetch("https://faezehrashidi.github.io/LOREAL/db.json");
         let res = await data.json();
-        let virtualbeautyItem = res.map((elem) => {
+        let virtualbeautyItem = res.virtualbeauty.map((elem) => {
             return `
             <div class="swiper-slide">
                 <div class="virtualbeautycard">
@@ -40,7 +40,7 @@ const fetchvirtualbeauty = async () => {
             },
         });
     } catch (error) {
-        console.log(err.message);
+        console.log(error.message);
     }
 };
 
