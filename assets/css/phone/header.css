@@ -1,13 +1,14 @@
 /* start header */
 header {
   width: 100%;
-  height: fit-content;
+  height: 360px;
   padding: 0px 20px;
   background-image: url(../../image/header.jpg);
   background-size: cover;
   background-position: center;
 }
 header::after {
+  height: 360px;
   content: "";
   position: absolute;
   inset: 0;
